@@ -3,7 +3,9 @@
 ## Introduction
 ---------------------------------------------------------------------
 - Overview of the business intelligence topic
-> Business Intelligence topics are: Data Visualization/Dashboards, ETL/SQL Data model, Python Data modelling, Predictive Analytics.
+> Business Intelligence topics are: ETL/SQL Data model, Data Visualization/Dashboards, and Predictive Analytics.
+
+For my final BI presentation, I will be focusing on the following topics from our allowed list: ETL/SQL Data model, Data Visualization/Dashboards, and Predictive Analytics. I'll use these topics to create somewhat of a 'pipeline' for my data. This hypothetical pipleine will be displaying skills I have learned throught the entirety of the whole course. Beginning with the 
 
 - Significance of data-driven decision-making
 > Airlines: I was nto satisfied with the Sem1 projects I submitted at christmas, have a personal oath to do better
@@ -25,10 +27,8 @@ I do not have as much experience with BI tools as I would like - which is the ma
 
 ## Data Selection
 ---------------------------------------------------------------------
--- Airline Data OR Car Sales data... Not sure what I like more.
--- Car sales data for predicting what future car prices? or a trend in prices over time... idk ask pat!!!
-
-Relevance for the Airline:
+-- Car Sales data...
+-- Car sales data for predicting what future car prices
 
 Car Sales: I will be honest, before I found this data set I was debating on using a sports gambling data set with March Madness odds. But I didn't know the schools policies on gambling, and didn't want to step on any toes.
 
