@@ -22,9 +22,7 @@ Although my education and experience involved a number of IT topics, nothing has
 
 
 ## Sample Data Selection
-- Criteria for selecting sample data
-- Sources of sample data
-- Relevance of the data to the demonstration
+My sample data set I will be using one of the datasets from my Business Intelligence presentation. The dataset will be the 2015 car sales.
 
 ## Technical Technique Demonstration
 - Description of the technical technique
@@ -42,4 +40,7 @@ Although my education and experience involved a number of IT topics, nothing has
 
 ## Appendices
 - References to technical literature
+https://www.coursera.org/articles/data-wrangling
+
+
 - Links to resources for further reading
