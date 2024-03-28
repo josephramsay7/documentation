@@ -45,12 +45,12 @@ Insights: Within this process we can expose any possible duplicates, null values
  ### Predictive Analytics
 Application: I will be using a regression model to predict the price of cars, present and current vehicles. Based on attributes like year, make, model, odometer, and possibly color. Using all of the same tactics we have learned in class recently, this will further assis drive home these basic principals of data analytics.
 
-Insights: Can hopefully see if there is any cause for price changes in cars over the years. Or maybe help determine a car for myself.
+Insights: The goal is to be able to gain insights of future values of automobiles. Hopefuly with a well constructed regression model, we will be able to identify trends and patterns in pricing.
 
 
 ## Implementation Plan
 ---------------------------------------------------------------------
- My plan is already in motion. As I have been trying to get the data structured to my liking since before this proposal was started. I am hopeful to have completed the cleaning, structuring, and all foundational tasks to my liking by the end of this month. Allowing me time to really focus on my dashboard and predictive analytical models. Hoefully a few days (maybe a week) before the final due date and presentations are due, I will have a good rough draft ready to be finalized. I will need to be efficient with my time since I am tackling to use a number of tools and softwares for my project.
+My plan is already in motion. As I have been trying to get the data structured to my liking since before this proposal was started. I am hopeful to have completed the cleaning, structuring, and all foundational tasks to my liking by the end of this month. Allowing me time to really focus on my dashboard and predictive analytical models. Hoefully a few days (maybe a week) before the final due date and presentations are due, I will have a good rough draft ready to be finalized. I will need to be efficient with my time since I am tackling to use a number of tools and softwares for my project.
 
 As for the tools, I will be using MSSQL for the cleaning and ETL processes. I may use some python to assist my cleaning, but we will see. There is some things about Python that I love for cleaning data! The dashboard will be created with Power BI. Power BI is very powerfull and will be able to present all of what I want to accomplish. Finally, the predictive analytics will be done with old reliable Python in our pycaret environment.
 
@@ -58,7 +58,7 @@ I was lucky enough to find both of my data sets (2015 & 2020) on Kaggle.com. I d
 
 ## Conclusion
 ---------------------------------------------------------------------
-Although this is the blandest proposal document to ever touch earth, I hope my writing makes up for the lack of formatting. I am here to conclude that the contributions of this project will help me further my career in Business Intelligence and Analytics. Everyuthing I have learned in these courses is exactly what I want to do as a professional. 
+Although this is the blandest proposal document to ever touch earth, I hope my writing makes up for the lack of formatting. I am here to conclude that the contributions of this project will help me further my career in Business Intelligence and Analytics. Everything I have learned in these courses is exactly what I want to do as a professional. Projects like this help me advance my skill set.
 
 ## Appendices
 ---------------------------------------------------------------------
